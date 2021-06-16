@@ -1,0 +1,89 @@
+([('beepsound.exe',
+   'D:\\Programming\\Learn-Python\\build\\beepsound\\beepsound.exe',
+   'EXECUTABLE'),
+  ('beepsound.exe.manifest',
+   'D:\\Programming\\Learn-Python\\build\\beepsound\\beepsound.exe.manifest',
+   'BINARY'),
+  ('python39.dll',
+   'c:\\users\\abu '
+   'bakar\\appdata\\local\\programs\\python\\python39\\python39.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\abu '
+   'bakar\\appdata\\local\\programs\\python\\python39\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('_multiprocessing',
+   'c:\\users\\abu '
+   'bakar\\appdata\\local\\programs\\python\\python39\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\users\\abu '
+   'bakar\\appdata\\local\\programs\\python\\python39\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select',
+   'c:\\users\\abu '
+   'bakar\\appdata\\local\\programs\\python\\python39\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\users\\abu '
+   'bakar\\appdata\\local\\programs\\python\\python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'c:\\users\\abu '
+   'bakar\\appdata\\local\\programs\\python\\python39\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_overlapped',
+   'c:\\users\\abu '
+   'bakar\\appdata\\local\\programs\\python\\python39\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\users\\abu '
+   'bakar\\appdata\\local\\programs\\python\\python39\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_asyncio',
+   'c:\\users\\abu '
+   'bakar\\appdata\\local\\programs\\python\\python39\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'c:\\users\\abu '
+   'bakar\\appdata\\local\\programs\\python\\python39\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\users\\abu '
+   'bakar\\appdata\\local\\programs\\python\\python39\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\users\\abu '
+   'bakar\\appdata\\local\\programs\\python\\python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\users\\abu '
+   'bakar\\appdata\\local\\programs\\python\\python39\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\abu '
+   'bakar\\appdata\\local\\programs\\python\\python39\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'c:\\users\\abu '
+   'bakar\\appdata\\local\\programs\\python\\python39\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('winsound',
+   'c:\\users\\abu '
+   'bakar\\appdata\\local\\programs\\python\\python39\\DLLs\\winsound.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'c:\\users\\abu '
+   'bakar\\appdata\\local\\programs\\python\\python39\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'c:\\users\\abu '
+   'bakar\\appdata\\local\\programs\\python\\python39\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'c:\\users\\abu '
+   'bakar\\appdata\\local\\programs\\python\\python39\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'D:\\Programming\\Learn-Python\\build\\beepsound\\base_library.zip',
+   'DATA')],)
