@@ -1,0 +1,2 @@
+Summary
+In this tutorial of Python examples, we have learned how to write single line and multi line comments in Python programming language.
