@@ -1,0 +1,2 @@
+a = '''To print an integer to standard console output, we can use built-in function print(). print() accepts integer as argument.\nIn the following example, we shall initialize an integer and print it to console.\nPython Program:'''
+x = 10;print(a);print('x=', x)
