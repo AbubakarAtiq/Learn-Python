@@ -1,0 +1,2 @@
+Python str()
+str() is a builtin function to define or convert other type objects to string.
