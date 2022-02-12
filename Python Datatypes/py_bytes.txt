@@ -1,0 +1,3 @@
+Python bytes
+Python bytes object is a sequence of single bytes.
+Python bytes object is immutable, so inplace update operations or modifications on the original bytes object cannot be done.
