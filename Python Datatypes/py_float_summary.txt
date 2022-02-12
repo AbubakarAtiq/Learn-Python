@@ -1,0 +1,3 @@
+summary
+in this tutorial of python examples, we learned about different aspects of float in python.
+https://pythonexamples.org/python-float/
