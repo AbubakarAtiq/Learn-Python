@@ -1,0 +1,4 @@
+You can perform many operations on strings in python.
+refer python string operations for the list of tutorials that cover different methods and scenarios working with strings, like slicing, searching, concatenation, etc.
+https://pythonexamples.org/python-string/
+https://pythonexamples.org/python-string-operations/
