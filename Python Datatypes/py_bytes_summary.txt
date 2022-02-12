@@ -1,0 +1,3 @@
+Summary
+In this tutorial of Python examples, we have learned what a bytes object is in Python, how to initialize a bytes object, how to make conversions to and fro with other data types, etc.
+https://pythonexamples.org/python-bytes/
