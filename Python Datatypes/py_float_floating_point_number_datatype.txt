@@ -1,0 +1,2 @@
+Float in python is one of the basic built-in datatype among numeric types along with int and complex datatypes.
+https://pythonexamples.org/python-float/
