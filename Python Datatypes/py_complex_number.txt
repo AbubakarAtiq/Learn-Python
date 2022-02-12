@@ -1,0 +1,5 @@
+Python complex number
+Python supports complex numbers and has a datatype called complex.
+A complex number contains a real part and imaginary part.
+complex numbers are very common in scientific calculations.
+ 
