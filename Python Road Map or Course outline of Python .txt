@@ -1,0 +1,36 @@
+Python road map
+Basic
+01.variables
+02.conditions
+03.chained conditionals
+04.Operators
+05.Control flow(if/else)
+06.Loops and iterables
+07.Basic data structures
+08.Functions
+09.Mutable Vs Immutable
+10.Common methods
+11.File I/O
+Intermediate
+01.OOPS
+02.Data structures
+03.Comprehensions
+04.Lamda functions
+05.Map, Filter
+06.Collections
+07.*Args&**Kwargs
+08.Inheritance
+09.Dunder Methods
+10.PIP
+11.Environments
+12.Modules
+13.Async 10
+Expert
+01.Decorators
+02.Generators
+03.Context Managers
+04.Metaclasses
+05.Parallelism
+06.Testing
+07.Packages
+08.Cython
