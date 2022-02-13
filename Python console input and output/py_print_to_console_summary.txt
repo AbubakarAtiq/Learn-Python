@@ -1,0 +1,3 @@
+summary
+In this tutorial of Python examples, we learned how to print a message to console, a variable or any other datatype to the console, using Python print() builtin function with the help of well detailed Python programs.
+https://pythonexamples.org/python-print-to-console-output/
