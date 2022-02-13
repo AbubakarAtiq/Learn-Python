@@ -1,0 +1,8 @@
+Read string from console as input using python
+----------------------------------------------
+To read a string from console as input to your python program, you can use input() function.
+input() can take an argument to print a message to the console, so that you can prompt the user and let him/her know what you are expecting.
+In this tutorial, we will learn how to use input() function, to read an input from user in your console application.
+console
+>>>Enter Name:______
+>>>Enter String:______
